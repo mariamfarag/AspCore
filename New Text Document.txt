@@ -1,0 +1,15 @@
+Add Card =>      Mariam       
+DashBord => Admin         => Ebram
+Chatting =>SignalR        => Moh
+Rate     =>                  Mohamed
+Search   =>                  Mahmoud
+
+Database =>              
+Identity =>   Mariam  & Mah
+Core MVC =>Crud => Admin     =>  Ebram
+
+Offers=>     Mahmoud
+Products=>   Mariam
+Home =>      Mohamed
+
+Account  =>Trello   
