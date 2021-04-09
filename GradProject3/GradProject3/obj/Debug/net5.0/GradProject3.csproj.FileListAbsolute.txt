@@ -1,0 +1,303 @@
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\appsettings.json
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.exe
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.deps.json
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.runtimeconfig.json
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.runtimeconfig.dev.json
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ref\GradProject3.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.Views.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.Views.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.csprojAssemblyReference.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.AssemblyInfoInputs.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.AssemblyInfo.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.csproj.CoreCompileInputs.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorAssemblyInfo.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorAssemblyInfo.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\staticwebassets\GradProject3.StaticWebAssets.Manifest.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\staticwebassets\GradProject3.StaticWebAssets.xml
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\scopedcss\bundle\GradProject3.styles.css
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.TagHelpers.input.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.TagHelpers.output.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorCoreGenerate.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorTargetAssemblyInfo.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorTargetAssemblyInfo.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.Views.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.csproj.CopyComplete
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\ref\GradProject3.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.pdb
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.genruntimeconfig.cache
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ebram\source\repos\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Create.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Delete.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Details.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Edit.cshtml.g.cs
+C:\Users\ebram\source\repos\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Index.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\appsettings.Development.json
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\appsettings.json
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.exe
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.deps.json
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.runtimeconfig.json
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.runtimeconfig.dev.json
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ref\GradProject3.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.Views.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\GradProject3.Views.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Humanizer.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.csprojAssemblyReference.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.AssemblyInfoInputs.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.AssemblyInfo.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.csproj.CoreCompileInputs.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.MvcApplicationPartsAssemblyInfo.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorAssemblyInfo.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorAssemblyInfo.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\staticwebassets\GradProject3.StaticWebAssets.Manifest.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\staticwebassets\GradProject3.StaticWebAssets.xml
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\scopedcss\bundle\GradProject3.styles.css
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.TagHelpers.input.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.TagHelpers.output.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorCoreGenerate.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Create.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Delete.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Details.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Edit.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Goods\Index.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\_Home.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorTargetAssemblyInfo.cache
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.RazorTargetAssemblyInfo.cs
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.Views.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.csproj.CopyComplete
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\ref\GradProject3.dll
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.pdb
+E:\iti_3_months\ITI Projects Graduation\المشروع الرابع\New Project\GradProject3\GradProject3\obj\Debug\net5.0\GradProject3.genruntimeconfig.cache

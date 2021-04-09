@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GradProject3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <script src="https://kit.fontawesome.com/6128d2f3dd.js" crossorigin="anonymous"></script>
+
+
+
+    @*<script src="~/js/JS.js"></script>
+    <script src="~/js/site.js"></script>*@
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/styleHome.css">
+    @*  <title>@ViewBag.Title</title>*@
+</head>
+<body>
+
+    <header>
+        <nav class=" navbar navbar-expand-md sticky-top navbar-dark bg-dark" @*style="position: fixed;top: auto; width: 100%;"*@>
+            <div class="container">
+                <a class="navbar-brand" asp-action="Index">
+                    <span>Distr</span><span>Whole</span>
+
+                </a>
+                <button class="navbar-toggler btn btn-warning " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon "></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link"asp-action="Index">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Crafts
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" @*asp-action=""*@>Tiles</a>
+                                <a class="dropdown-item"@*asp-action=""*@>Plumbing</a>
+                                <a class="dropdown-item" @*asp-action=""*@>Paints</a>
+                            </div>
+                        </li>
+
+                        <li class="nav-item"><a class="nav-link" asp-action="">Profile</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#">Contact</a></li> -->
+                        <li class="nav-item">
+                            <i class='fas fa-shopping-cart ' style='font-size:36px;color:#FBA919;float: left;padding-top: 10px;padding-left: 10px;'></i>
+
+                            <!-- <li class="nav-item"><a class="nav-link" href="#">About</a></li> -->
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </nav>
+
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*<footer class="border-top footer text-muted">*@
+
+    @*<div class="container">*@
+        <!-- ========== footer ============= -->
+        <nav class="navbar navbar-expand-md bg-dark navbar-dark justify-content-center " style="color: #FBA919;width:100%">
+            <footer class="w3-container">
+                <p> our project@copyright.com</p>
+                <div class="footer-link" style="padding: 10px;padding-left: 50px;">
+                    <a href="#" class="fa fa-facebook" style="color: #FBA919;"></a>
+                    <a href="#" class="fa fa-twitter" style="color: #FBA919;"></a>
+                    <a href="#" class="fa fa-google-plus" style="color:#FBA919;"></a>
+                    <!-- <a href="#" class="fa fa-feed"></a> -->
+                    <a href="#" class="fa fa-linkedin" style="color:#FBA919;"></a>
+                    <a href="#" class="fa fa-skype" style="color:#FBA919;"></a>
+                    <!-- <a href="#" class="fa fa-vimeo"></a> -->
+                    <!-- <a href="#" class="fa fa-tumblr"></a> -->
+                </div>
+            </footer>
+        </nav>
+        @*&copy; 2021 - GradProject3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>*@
+    @*</div>*@
+    @*</footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/JS.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+
+@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GradProject3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">GradProject3</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - GradProject3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>*@
+

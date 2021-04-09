@@ -1,0 +1,145 @@
+﻿@model IEnumerable<GradProject3.Models.Good>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="fas fa-plus-circle">Create New</a>
+    @*<i class="fas fa-plus-circle"></i>*@
+</p>
+<!--<table class="table">
+    <thead>
+        <tr>-->
+@*<th>
+        @Html.DisplayNameFor(model => model.Name)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.Quantity)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.Size)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.Price)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.ExpireDate)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.Images)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.IdoffersNavigation)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.IdtgNavigation)*@
+<!--   </th>
+        <th></th>
+    </tr>
+</thead>
+<tbody>-->
+@*@foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpireDate)
+            </td>
+            <td>*@
+@*<img src=@("~/Image/"+item.Images) asp-append-version="true" style=" height:200px; width:200px;" />*@
+
+@*</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdoffersNavigation.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdtgNavigation.Type)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>*@
+
+
+
+
+@foreach (var item in Model)
+{
+    <section id="Faucets">
+        @* <div class="titleforsection"><h2>Faucets</h2></div>*@
+
+        <div class="container-fluid wow fadeInUp" style="width:30%;float:left;">
+            <!-- <h2>Card Image</h2>
+            <p>Image at the bottom (card-img-bottom):</p> -->
+            <div class="row">
+                <div class="div col text-center shadow-lg  bg-white">
+                    <div class="div1">
+                        <div class="div_inner">
+                            <div class="div_front">
+                                <img src=@("~/Image/"+item.Images) asp-append-version="true" alt="Card image" style=" width:100%" />
+                                @*<img class="" src="images/Plumber/facut/download (1).jpg" alt="Card image" style="width:100%">*@
+                                <P>
+                                    <h2 style="float: left;">Name :<small><i>@item.Name</i></small></h2>
+                                    <br><br><br>
+                                <p style="float: left;">It is available :@item.ExpireDate</p>
+
+                                <!-- <div >
+                                    <h4 >Gala</h4>
+                                    <p >Gala is an architect and engineer</p>
+                                    <a href="#" class="btn btn-warning">Order</a>
+                                </div> -->
+                            </div>
+                            <div class="div_back" style="padding-top: 60px;">
+                                <h3>Price</h3>
+                                <h2> @item.Price</h2>
+                                <p>Size :@item.Size </p>
+                                <p>Available Quantity :@item.Quantity </p>
+
+                                <footer class="w3-container w3-teal w3-center w3-margin-top "
+                                        style="text-align: center;">
+                                    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+                                    <i class="fa fa-instagram w3-hover-opacity"></i>
+                                    <i class="fa fa-snapchat w3-hover-opacity"></i>
+                                    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+                                    <i class="fa fa-twitter w3-hover-opacity"></i>
+                                    <i class="fa fa-linkedin w3-hover-opacity"></i>
+                                </footer>
+                                <p>
+                                    <a asp-action="Edit" class="far fa-edit" asp-route-id="@item.Id">Edit</a> |
+                                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                    <a asp-action="Delete" class="far fa-trash-alt" asp-route-id="@item.Id">Delete</a>
+                                </p>
+                                <a href="#" class="btn btn-warning">Order</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+}
+@*<i class="far fa-trash-alt"></i>
+<i class="far fa-edit"></i>*@
+<div>
+    <a asp-action="Create"> <img src=@("~/Image/add.png") asp-append-version="true" alt="Card image" style=" width:30%; border-radius:10px;" /></a>
+</div>

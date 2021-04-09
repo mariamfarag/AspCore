@@ -1,0 +1,211 @@
+body{
+  margin: 0;
+}
+
+@font-face{
+ font-family: logoFont;
+ src: url('fonts/DancingScript-Regular.otf');   
+}
+/* .container{
+  position: relative;
+/* padding: 30px; */
+/* float: left;
+margin:60px;
+
+} */
+
+/* .container img{
+  width: 230px;
+  height: 250px;
+  cursor: pointer; */
+  /* transition: width 2s, height 4s; */
+/* } */
+/* 
+.items{
+  box-shadow: 2px 4px 3px 2px cornflowerblue;
+  padding: 5px;
+  margin :15px;
+  float: left;;
+}  */
+
+/* h3{
+  text-align: center;
+
+}
+p{
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+} */
+/* 
+.price {
+  color: grey;
+  font-size: 22px;
+} */
+/* ================================== */
+
+/* --------- */
+/* =========================================== */
+* h2 , p{
+  font-family: "logoFont", cursive;
+
+}
+
+/* ===================================== */
+/* ================================= */
+.titleforsection h2{
+  font-weight: bold;
+  /* box-shadow: 2px 4px 3px 2px rgb(53, 104, 199); */
+  text-align: center; 
+  margin-top: 30px; 
+/* color: #FBA919; */
+}
+
+/* ==================================== */
+.col{
+    height: 400px;
+    width: 350px;
+margin: 20px;
+z-index: 1;
+
+}
+/* .row :hover
+{
+    opacity: 0.4;
+    transition: 0.4s;
+} */
+
+/* ========== */
+.div{
+  margin-bottom: 30px;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: .2s;
+  
+}
+
+.div:hover{
+  border:3px solid #FBA919;
+  box-shadow: 2px 4px 3px 2px #FBA919;
+}
+
+.card-body{
+  /* background-color: cornsilk; */
+  background-color: cornsilk;
+  padding: 5px;
+  box-sizing: border-box;
+  height:220px;
+  
+}
+
+.div1{
+  background-color: transparent;
+  width: 100%;
+  height: 75%;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+}
+
+
+.div_inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.9s;
+  transform-style: preserve-3d;
+}
+
+.div1:hover .div_inner {
+  transform: rotateY(180deg);
+}
+
+.div_front, .div_back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+} 
+ 
+.div_front {
+  /* background-color: #bbb; */
+  color: #212529;
+}
+.div_front img{
+  height: 260px;
+}
+
+
+.div_back {
+  background-color:white;
+  color: #343a40;
+  transform: rotateY(180deg);
+}
+
+/* =============== tile =========== */
+.type{
+    padding-top: 15px;
+ 
+}
+
+/* .type.tile.ul_tile{
+  text-align: left;
+  height: 170px;
+} */
+
+.type .tile {
+    text-align: center;
+    
+}
+
+.type .tile .ul_tile li{
+display: inline-block;
+font-weight: bold;
+background-color:#343a40;
+height:45px;
+text-align: center;
+padding-top: 10px;
+border-radius: 4px 4px 4px 4px;
+}
+
+.type .tile .ul_tile li a{
+    text-decoration: none;
+    padding:20px;
+    color: white;
+  
+}
+
+.type .tile .ul_tile li :hover{
+    border-radius: 12px 12px 12px 12px;
+    background-color: white;
+    border:1.5px solid #FBA919;
+    color: #FBA919;
+    padding: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+/* ========== facebook */
+.w3-container i:hover
+{
+  color: #FBA919;
+}
+
+
+
+/* .items:hover{
+  width: 300px;
+  height: 350px;
+} */
+
+
+/* .header {
+  width: 200px;
+  height: 300px;
+  position: relative;
+  background-color:black ;
+
+} */
+/* ============ */
